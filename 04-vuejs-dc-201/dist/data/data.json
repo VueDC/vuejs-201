@@ -1,0 +1,434 @@
+{
+	"poses": [
+		{
+			"id": "0",
+			"name": {
+				"english": "Mountain",
+				"sanskrit": "Tadasana"
+			},
+			"types": ["Standing"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-0.svg"
+			}
+		},
+		{
+			"id": "3",
+			"name": {
+				"english": "Tree",
+				"sanskrit": "Vrksasana"
+			},
+			"types": ["Standing", "Balancing"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-3.svg"
+			}
+		},
+		{
+			"id": "11",
+			"name": {
+				"english": "Warrior II",
+				"sanskrit": "Virabhadrasana II"
+			},
+			"types": ["Standing", "Strengthening"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-11.svg"
+			}
+		},
+		{
+			"id": "14",
+			"name": {
+				"english": "Triangle",
+				"sanskrit": "Utthita Trikonasana"
+			},
+			"types": ["Standing", "Strengthening"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-14.svg"
+			}
+		},
+		{
+			"id": "15",
+			"name": {
+				"english": "Half Moon",
+				"sanskrit": "Ardha Chandrasana"
+			},
+			"types": ["Standing", "Balancing"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-15.svg"
+			}
+		},
+		{
+			"id": "16",
+			"name": {
+				"english": "Dancer",
+				"sanskrit": "Natarajasana"
+			},
+			"types": ["Balancing", "Chest Opening", "Standing", "Backbends"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-16.svg"
+			}
+		},
+		{
+			"id": "17",
+			"name": {
+				"english": "Warrior III",
+				"sanskrit": "Virabhadrasana III"
+			},
+			"types": ["Standing", "Strengthening", "Balancing"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-17.svg"
+			}
+		},
+		{
+			"id": "18",
+			"name": {
+				"english": "Standing Half Forward Bend",
+				"sanskrit": "Ardha Uttanasana"
+			},
+			"types": ["Standing", "Forward Bend"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-18.svg"
+			}
+		},
+		{
+			"id": "25",
+			"name": {
+				"english": "Plank",
+				"sanskrit": ""
+			},
+			"types": ["Arm Balance", "Core Yoga", "Strrengthening"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-25.svg"
+			}
+		},
+		{
+			"id": "27",
+			"name": {
+				"english": "Low Lunge",
+				"sanskrit": "Anjaneyasana"
+			},
+			"types": ["Standing"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-27.svg"
+			}
+		},
+		{
+			"id": "29",
+			"name": {
+				"english": "High Lunge",
+				"sanskrit": ""
+			},
+			"types": ["Standing"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-29.svg"
+			}
+		},
+		{
+			"id": "30",
+			"name": {
+				"english": "Warrior I",
+				"sanskrit": "Virabhadrasana I"
+			},
+			"types": ["Standing", "Strengthening", "Balancing"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-30.svg"
+			}
+		},
+		{
+			"id": "31",
+			"name": {
+				"english": "Cobra",
+				"sanskrit": "Bhujangasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-31.svg"
+			}
+		},
+		{
+			"id": "35",
+			"name": {
+				"english": "Upward Facing Dog",
+				"sanskrit": "Urdhva Mukha Svanasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-35.svg"
+			}
+		},
+		{
+			"id": "36",
+			"name": {
+				"english": "Bridge",
+				"sanskrit": "Setu Bandha Sarvangasana"
+			},
+			"types": ["Backbends"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-36.svg"
+			}
+		},
+		{
+			"id": "39",
+			"name": {
+				"english": "Locust",
+				"sanskrit": "Salabhasana"
+			},
+			"types": ["Chest Opening", "Strengthening", "Backbends"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-39.svg"
+			}
+		},
+		{
+			"id": "40",
+			"name": {
+				"english": "Bow",
+				"sanskrit": "Dhanurasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-40.svg"
+			}
+		},
+		{
+			"id": "46",
+			"name": {
+				"english": "Fish",
+				"sanskrit": "Matsyasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-46.svg"
+			}
+		},
+		{
+			"id": "48",
+			"name": {
+				"english": "Firefly",
+				"sanskrit": "Tittibhasana"
+			},
+			"types": ["Arm Balance"],
+			"experience": "Advanced",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-48.svg"
+			}
+		},
+		{
+			"id": "49",
+			"name": {
+				"english": "Hero",
+				"sanskrit": "Virasana"
+			},
+			"types": ["Seated"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-49.svg"
+			}
+		},
+		{
+			"id": "50",
+			"name": {
+				"english": "Child",
+				"sanskrit": "Balasana"
+			},
+			"types": ["Forward Bend", "Hip Opening", "Resotrative"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-50.svg"
+			}
+		},
+		{
+			"id": "55",
+			"name": {
+				"english": "Cow",
+				"sanskrit": "Bitilasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-55.svg"
+			}
+		},
+		{
+			"id": "56",
+			"name": {
+				"english": "Cat",
+				"sanskrit": "Marjaryasana"
+			},
+			"types": ["Core Yoga"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-56.svg"
+			}
+		},
+		{
+			"id": "58",
+			"name": {
+				"english": "Camel",
+				"sanskrit": "Ustrasana"
+			},
+			"types": ["Chest Opening", "Backbends"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-58.svg"
+			}
+		},
+		{
+			"id": "61",
+			"name": {
+				"english": "Downward Facing Dog",
+				"sanskrit": "Adho Mukha Svanasana"
+			},
+			"types": ["Forward Bend", "Standing", "Strengthening"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-61.svg"
+			}
+		},
+		{
+			"id": "68",
+			"name": {
+				"english": "Standing Forward Bend",
+				"sanskrit": "Uttanasana"
+			},
+			"types": ["Forward Bend"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-68.svg"
+			}
+		},
+		{
+			"id": "72",
+			"name": {
+				"english": "Eagle",
+				"sanskrit": "Garudasana"
+			},
+			"types": ["Balancing", "Hip Opening", "Standing"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-72.svg"
+			}
+		},
+		{
+			"id": "73",
+			"name": {
+				"english": "Wheel",
+				"sanskrit": "Urdhva Dhanurasana"
+			},
+			"types": ["Chest Opening", "Strengthening", "Backbends"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-73.svg"
+			}
+		},
+		{
+			"id": "78",
+			"name": {
+				"english": "Handstand",
+				"sanskrit": "Adho Mukha Vrksasana"
+			},
+			"types": ["Balancing", "Inversion", "Strengthening"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-78.svg"
+			}
+		},
+		{
+			"id": "79",
+			"name": {
+				"english": "Headstand",
+				"sanskrit": "Salamba Sirsasana"
+			},
+			"types": ["Balancing", "Inversion"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-79.svg"
+			}
+		},
+		{
+			"id": "80",
+			"name": {
+				"english": "Shoulder Stand",
+				"sanskrit": "Salamba Sarvangasana"
+			},
+			"types": ["Balancing", "Inversion"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-80.svg"
+			}
+		},
+		{
+			"id": "82",
+			"name": {
+				"english": "Scorpion",
+				"sanskrit": "Vrschikasana"
+			},
+			"types": ["Balancing", "Inversion"],
+			"experience": "Advanced",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-82.svg"
+			}
+		},
+		{
+			"id": "85",
+			"name": {
+				"english": "Boat",
+				"sanskrit": "Paripurna Navasana"
+			},
+			"types": ["Core Yoga", "Seated", "Strengthening"],
+			"experience": "Beginner",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-85.svg"
+			}
+		},
+		{
+			"id": "90",
+			"name": {
+				"english": "Plow",
+				"sanskrit": "Halasana"
+			},
+			"types": ["Inversion"],
+			"experience": "Intermediate",
+			"media": {
+				"icon": "/dist/assets/icons/yoga-90.svg"
+			}
+		}
+	],
+	"sequences": [
+		{
+			"title": "Sun Salutation A",
+			"poseIds": [ "0", "68", "18", "25", "31", "61", "68", "0" ]
+		},
+		{
+			"title": "Warrior",
+			"poseIds": [ "11", "29", "17", "15" ]
+		},
+		{
+			"title": "Relaxation",
+			"poseIds": [ "50", "55", "56" ]
+		},
+		{
+			"title": "Shoulder Stand",
+			"poseIds": [ "80", "90", "46" ]
+		},
+		{
+			"title": "Sun Salutation B",
+			"poseIds": [ "30", "25", "35", "61", "30" ]
+		}
+	]
+}
